@@ -1,0 +1,23 @@
+Process step;NAME;Purpose;Temperature;in ;in;in2;out;out ;out3
+0;sieve;Remove bigger particles;;Soy beans;;;;;
+1;pre cleaning;;;;;;;;
+2;warm sieve;Remove further, prewarm beans;;;;;;;
+3;jet heater;Warm up beans;60;;;;;;
+4;riffle rolls;Split up beans in 4-6 pcs;;;;;;;
+5;dehulling;Blow away hulls;;Crushed beans;;;;;
+6;flaking rolls;Rolls, press beans to flakes;;Dehulled crush;;;;;
+7;hexan extraction;Extraction/removal of oil ;;Full fat flakes;;;;;
+8;desolventize;Remove excess Hexane;100;Defatted flakes;;;;;
+9;vacuum stripper;Remove excess Hexane;;Defatted flakes;;;;;
+10;coolers;Cool down flakes;;Defatted flakes;;;;;
+11;white flake tank;Storage for SPC;;;;;;;
+12;ethanol extraction inkl. Pre soaking;Remove carbohydrates;60;White flakes;;;;;
+13;press;Remove excess liquid;;press white flakes;;;;;
+14;rota disc;Remove excess ethanol ;100;press white flakes;;;;;
+15;desolventize;Remove excess ethanol ;105;predried white flakes;;;;;
+16;toast;Bake product;105;spc paste ;;;;;
+17;dry;Remove excess liquid completely;;toasted spc;;;;;
+18;coolers;Cool down powder precursor;;dried spc;;;;;
+19;hammermills;Mill to finer particles;;dried spc;;;;;
+20;whizzers;Cut down particles;;milled spc;;;;;
+21;cycloon;;;powdered spc;;;;;
