@@ -1,5 +1,5 @@
 PassengerId,Survived,Pclass,Name,Sex,Age,SibSp,Parch,Ticket,Fare,Cabin,Embarked
-1,0,3,Braund, Mr. Owen Harris,male,22.0,1,0,A/5 21171,7.25,,S
+1,0,3,Braund, Mr. Owen Harris,male,22.0,1,0,A/5 21171,7.25,0,S
 2,1,1,Cumings, Mrs. John Bradley (Florence Briggs Thayer),female,38.0,1,0,PC 17599,712.833,C85,C
 3,1,3,Heikkinen, Miss. Laina,female,26.0,0,0,STON/O2. 3101282,7.925,,S
 4,1,1,Futrelle, Mrs. Jacques Heath (Lily May Peel),female,35.0,1,0,113803,53.1,C123,S
@@ -155,3 +155,4 @@ PassengerId,Survived,Pclass,Name,Sex,Age,SibSp,Parch,Ticket,Fare,Cabin,Embarked
 154,0,3,van Billiard, Mr. Austin Blyler,male,40.5,0,2,A/5. 851,14.5,,S
 155,0,3,Olsen, Mr. Ole Martin,male,,0,0,Fa 265302,73.125,,S
 156,0,1,Williams, Mr. Charles Duane,male,51.0,0,1,PC 17597,613.792,,C
+
